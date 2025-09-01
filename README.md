@@ -11,4 +11,4 @@ First, install a plugin that enables UserScript. There are several plugins for e
 - Chrome or Firefox: [Tampermonkey](https://www.tampermonkey.net/)
 - Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
-Then, [click here to install](https://gist.github.com/HaroldPetersInskipp/24ce2a7e8d9a6969c342656a23b6b892/raw/HiAnime-auto-fullscreen.user.js).
+Then, [click here to install](https://gist.github.com/HaroldPetersInskipp/24ce2a7e8d9a6969c342656a23b6b892/raw/hianime-auto-fullscreen.user.js).
