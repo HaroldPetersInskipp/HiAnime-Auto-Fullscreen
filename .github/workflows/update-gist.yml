@@ -19,7 +19,7 @@ jobs:
       run: |
         # Define variables
         GIST_ID="24ce2a7e8d9a6969c342656a23b6b892"         # Replace with your Gist ID
-        FILE_NAME="HiAnime-auto-fullscreen.user.js"        # Name of the file in the Gist
+        FILE_NAME="hianime-auto-fullscreen.user.js"        # Name of the file in the Gist
         LOCAL_FILE="script.js"                             # Path to the local file in the repo
 
         # Fetch the content of the local file
