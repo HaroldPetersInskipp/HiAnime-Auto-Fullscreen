@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         HiAnime Auto Fullscreen
 // @namespace    https://github.com/HaroldPetersInskipp/
-// @version      1.0.1
+// @version      1.0.2
 // @homepageURL  https://github.com/HaroldPetersInskipp/HiAnime-Auto-Fullscreen
 // @supportURL   https://github.com/HaroldPetersInskipp/HiAnime-Auto-Fullscreen/issues
-// @downloadURL  https://gist.github.com/HaroldPetersInskipp/24ce2a7e8d9a6969c342656a23b6b892/raw/HiAnime-auto-fullscreen.user.js
-// @updateURL    https://gist.github.com/HaroldPetersInskipp/24ce2a7e8d9a6969c342656a23b6b892/raw/HiAnime-auto-fullscreen.user.js
+// @downloadURL  https://gist.github.com/HaroldPetersInskipp/24ce2a7e8d9a6969c342656a23b6b892/raw/hianime-auto-fullscreen.user.js
+// @updateURL    https://gist.github.com/HaroldPetersInskipp/24ce2a7e8d9a6969c342656a23b6b892/raw/hianime-auto-fullscreen.user.js
 // @description  Auto Fullscreen + Manual Override Button
 // @author       Inskipp
 // @copyright    2025+, HaroldPetersInskipp
