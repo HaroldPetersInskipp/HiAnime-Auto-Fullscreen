@@ -1,5 +1,5 @@
 # HiAnime-Auto-Fullscreen
-Userscript to automaticall enter fullscreen mode while watching anime + Manual Override Button.
+Userscript to automatically enter fullscreen mode while watching anime + Manual Override Button.
 
 For use with Tampermonkey or Greasemonkey.
 
